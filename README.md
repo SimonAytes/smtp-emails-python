@@ -9,4 +9,4 @@ This repository holds code for sending emails with Python. It was created in con
 Ensure that you have a `.env` file with the following variables:
 
 - `SENDER_EMAIL`: The sender's email.
-- `SENDER_PASSWORD`: The sender's [Gmail App Password]([url](https://support.google.com/accounts/answer/185833).
+- `SENDER_PASSWORD`: The sender's [Gmail App Password](https://support.google.com/accounts/answer/185833).
