@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository holds code for sending emails with Python. It was created in conjunction with an article published in TowardsDataScience (link forthcoming).
+This repository holds code for sending emails with Python. It was created in conjunction with an article published on [Medium](https://medium.com/@saaytes/automating-email-tasks-with-python-21467c56ec75).
 
 # Setting up
 
